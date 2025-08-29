@@ -5,7 +5,7 @@
 # 💰 Finance Data Lakehouse (Mortgage/Loan)
 
 ## 프로젝트 개요
-**모기지/대출 성과 데이터**를 기반으로 Delta/Iceberg 파이프라인을 구축한 프로젝트입니다.  
+모기지/대출 성과 데이터를 기반으로 Delta/Iceberg 파이프라인을 구축한 프로젝트입니다.  
 dbt Metrics를 통해 금융 KPI를 정의하고, Tableau/Power BI와 연동합니다.
 
 ---
